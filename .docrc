@@ -1,0 +1,5 @@
+{
+  "configs": [
+    { "type": "oneFilePerFile", "src": "./src" }
+  ]
+}
